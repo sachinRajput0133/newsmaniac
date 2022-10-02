@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newsmaniac/static/css/main.abd64e84.css",
+    "main.js": "/newsmaniac/static/js/main.b189320e.js",
+    "index.html": "/newsmaniac/index.html",
+    "main.abd64e84.css.map": "/newsmaniac/static/css/main.abd64e84.css.map",
+    "main.b189320e.js.map": "/newsmaniac/static/js/main.b189320e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b189320e.js"
+  ]
+}
