@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Sally Jenkins",
+    "title": "Perspective | Serena Williams's exit was just like her career — a fight to the end - The Washington Post",
+    "description": "The 23-time Grand Slam champion authored one more thrilling chapter to an unprecedented career on an emotional night at Arthur Ashe Stadium.",
+    "url": "https://www.washingtonpost.com/sports/2022/09/03/serena-williams-us-open-loss-retirement/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FJM5SWIUBCRVA6LOKHDYW7EVM.jpg&w=1440",
+    "publishedAt": "2022-09-03T12:00:00Z",
+    "content": "Comment on this story\r\nAll of the celebrity tributes and voice-over videos were artificialities, junk, compared to the audiences acclaim for Serena Williams, the pure roaring waterfalls of applause t… [+6038 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Russia's Gazprom says Siemens Energy ready to fix Nord Stream fault - Reuters.com",
+    "description": "Russia's Gazprom <a href=\"https://www.reuters.com/companies/GAZP.MM\" target=\"_blank\">(GAZP.MM)</a> said on Saturday Siemens <a href=\"https://www.reuters.com/companies/ENR1n.DE\" target=\"_blank\">(ENR1n.DE)</a> was ready to carry out repairs on the Nord Stream 1…",
+    "url": "https://www.reuters.com/business/energy/gazprom-siemens-energy-ready-fix-nord-stream-1-faults-no-worksite-available-2022-09-03/",
+    "urlToImage": "https://www.reuters.com/resizer/YwVJ2QY9GZra8ftN5BCs_8B1T_Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PFA2GLSXIFPWVDF2ODY4W6X3MQ.jpg",
+    "publishedAt": "2022-09-03T11:54:00Z",
+    "content": "Sept 3 (Reuters) - Russia's Gazprom (GAZP.MM) said on Saturday Siemens (ENR1n.DE) was ready to carry out repairs on the Nord Stream 1 pipeline but there was nowhere available to carry out the work, a… [+2777 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Tara John and Frederik Pleitgen, CNN",
+    "title": "Russians say farewell to USSR's last leader Mikhail Gorbachev in funeral snubbed by Putin - CNN",
+    "description": "Russians said farewell to the last leader of the Soviet Union Mikhail Gorbachev on Saturday in a funeral that has been snubbed by President Vladimir Putin.",
+    "url": "https://www.cnn.com/2022/09/03/europe/mikhail-gorbachev-funeral-russia-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220903042046-06-gorbachev-funeral-090322-super-tease.jpg",
+    "publishedAt": "2022-09-03T11:20:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Fog of war: Ukraine’s counteroffensive against Russian forces - Al Jazeera English",
+    "description": "Both sides have claimed victories in the initial days of what Ukrainians called a potential turning point in the war.",
+    "url": "https://www.aljazeera.com/news/2022/9/3/russia-west-step-up-energy-war-as-risk-of-nuclear-disaster-haunt",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/Kherson.jpg?resize=1920%2C1440",
+    "publishedAt": "2022-09-03T10:10:05Z",
+    "content": "Ukraines counteroffensive to recapture the first major city to fall to Russia, Kherson, continues as its forces attacked command posts and Moscows troops retaliated with a ground assault to stymie th… [+5572 chars]"
+    }
+    ]
+    }
